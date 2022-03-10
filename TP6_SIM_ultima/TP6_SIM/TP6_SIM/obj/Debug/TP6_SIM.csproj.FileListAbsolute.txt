@@ -1,0 +1,106 @@
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.AssemblyReference.cache
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+C:\Users\Procoop\source\repos\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.AssemblyReference.cache
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico3.resources
+D:\Usuario\Documents\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico4.resources
+D:\Downloads\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+D:\Downloads\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+D:\Downloads\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.AssemblyReference.cache
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico3.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico4.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+D:\Downloads\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.AssemblyReference.cache
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico3.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico4.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+C:\Users\Procoop\Downloads\TP6_SIM\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csprojAssemblyReference.cache
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico3.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico4.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+C:\Users\FotoGrafia\OneDrive - frc.utn.edu.ar\Escritorio\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+<<<<<<< HEAD
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.AssemblyReference.cache
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico3.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico4.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+D:\Usuario\Documents\Facultad\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+=======
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe.config
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.exe
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\bin\Debug\TP6_SIM.pdb
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Form1.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico1.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico2.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico3.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmGrafico4.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.frmResultados.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.exe
+C:\Users\Admin\OneDrive\Documentos\4º AÑO\4to\Simulacion\TP6_SIM_ultima\TP6_SIM\TP6_SIM\obj\Debug\TP6_SIM.pdb
+>>>>>>> f0e6717bd5449253bf7f7e4acd93e748d2278cbc
